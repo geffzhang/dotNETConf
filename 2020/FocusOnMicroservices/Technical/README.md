@@ -58,6 +58,7 @@ DAPR makes building distributed applications much easier by providing a collecti
 
 Learn about new tooling the .NET team is working on to help you build microservices faster.
 
+- [Slides](TyeNetConfPresentation.pptx)
 - [Video](https://youtu.be/MMIUpYOQq5Y)
 
 ### Beyond REST and RPC: Asynchronous Eventing and Messaging Patterns
@@ -73,6 +74,7 @@ In this session you will learn about when and why to use asynchronous communicat
 
 Domain-Driven Design (DDD) provides much of the strategic design guidance that we can use to determine the boundaries around and interactions between Microservices in our solutions. DDD also follows up with tactical design patterns for your business logic. In this session we’ll take a look at some of these patterns and how EF Core naturally, or with some additional configuration, persists the data that your microservices depend on.
 
+- [Slides](lerman_ef_ddd_microservices.pdf)
 - [Video](https://youtu.be/DG8Qe7TJiIE)
 - [Demo](https://github.com/julielerman/dotnetconfms2020)
 
@@ -122,3 +124,16 @@ See how you can take advantage of Visual Studio tools to build, debug and deploy
 
 - [Slides](DevelopDebugMicroservices.pptx)
 - [Video](https://youtu.be/98nIvg7ne7Q)
+
+### Post-Conference Workshop
+[Rob Vettor](https://twitter.com/robvettor), [Monu Bambroo](https://twitter.com/BambrooMonu) 
+
+6+ hour workshop going deep into how to build .NET microservice-based applications on Azure. 
+
+- For slides see the `\Workshop` folder
+- [Video 1](https://www.youtube.com/watch?v=jMDufMYAsmw&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p&index=17&t=0s)
+- [Video 2](https://www.youtube.com/watch?v=u7MM21aIsqk&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p&index=18&t=0s)
+- [Video 3](https://www.youtube.com/watch?v=iL3Kxd4Auys&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p&index=19&t=0s)
+- [Video 4](https://www.youtube.com/watch?v=3G7NB4waGbk&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p&index=20&t=0s)
+- [Video 5](https://www.youtube.com/watch?v=qwEfynnevEU&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p&index=21&t=0s)
+- [Video 6](https://www.youtube.com/watch?v=7kVmb747vfM&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p&index=22&t=0s)
